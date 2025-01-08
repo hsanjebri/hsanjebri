@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning ****DevOps tools** like Docker, Jenkins, and **AI integration** in development**
 
 - 💬 Ask me about **Full-stack development with Spring Boot, Angular, Symfony, and Flutter**
+- you can find my personal portfolio here : https://hsanjebri.github.io/portfolio/
 
 - 📫 How to reach me **hsan.jebri@esprit.tn**
 
