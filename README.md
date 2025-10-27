@@ -64,9 +64,6 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -95,4 +92,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsanjebri&show_icons=true&locale=en" alt="hsanjebri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsanjebri&" alt="hsanjebri" /></p>
-![Commit Calendar](https://github.com/hassanjebr/hassanjebr/blob/main/github-metrics.svg)
