@@ -1,7 +1,12 @@
 name: Generate GitHub Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs every day at midnight
-  workflow_dispatch:              # Manual trigger option
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:       # Manual trigger option
+
+env:
+  GITHUB_USERNAME: hsanjebri   # 👈 your username (set once here)
 
 jobs:
   github-metrics:
@@ -11,7 +16,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: hsanjebri
+          user: ${{ env.GITHUB_USERNAME }}  
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Tunis
+          plugin_errors_fatal: false
