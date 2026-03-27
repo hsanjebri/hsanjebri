@@ -31,10 +31,8 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           
-          # 🏅 Habits
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
+          # 🏅 Habits (disabled to fix API error)
+          plugin_habits: no
           
           # Output
           filename: github-metrics.svg

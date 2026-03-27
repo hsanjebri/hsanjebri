@@ -24,19 +24,13 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🎓  Software Engineering Student @ ESPRIT                         ║
-║   💼  Full-Stack Developer (Spring Boot / Angular / Flutter)         ║
-║   🤖  AI & Machine Learning Enthusiast                               ║
-║   🚀  DevOps Explorer (Docker, Jenkins, Kubernetes)                  ║
-║   📍  Tunisia                                                        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+> ### 🚀 Professional Full-Stack Developer & AI Enthusiast
+> **Building scalable web applications, craftng mobile experiences, and exploring the frontiers of AI.**
+> _Focused on clean code, Agile methodologies, and high-performance system architecture._
 
 </div>
+
+<br/>
 
 <table align="center">
   <tr>
