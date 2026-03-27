@@ -108,14 +108,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hsanjebri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsanjebri&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hsanjebri&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;icon_color=6C63FF&amp;text_color=FFFFFF&amp;ring_color=6C63FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsanjebri&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6C63FF&amp;fire=6C63FF&amp;currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsanjebri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsanjebri&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br/>
@@ -127,7 +127,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hsanjebri&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hsanjebri&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
