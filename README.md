@@ -67,6 +67,8 @@
   
   <!-- 👾 Pac-Man eating your contributions -->
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hsanjebri/hsanjebri/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hsanjebri/hsanjebri/output/pacman-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/hsanjebri/hsanjebri/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
   </picture>
 
@@ -109,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsanjebri&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;text_color=FFFFFF" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=hsanjebri&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=6C63FF&amp;text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br/>
@@ -121,7 +123,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hsanjebri&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=hsanjebri&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
