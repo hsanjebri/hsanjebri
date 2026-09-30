@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>🌐 Portfolio</td>
-    <td><a href="https://hsanjebri.github.io/portfolio/"><b>hsanjebri.github.io/portfolio</b></a></td>
+    <td><a href="https://hassan-jebri-portfolio.vercel.app/"><b>hsanjebri.github.io/portfolio</b></a></td>
   </tr>
   <tr>
     <td>📫 Reach me at</td>
